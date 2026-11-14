@@ -1,0 +1,10 @@
+{
+  "name": "멍케이션 미리보기",
+  "short_name": "멍케이션",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#FAF8F4",
+  "theme_color": "#205C40",
+  "description": "Flutter로 개발 중인 멍케이션 앱의 브라우저 미리보기",
+  "orientation": "portrait-primary"
+}
